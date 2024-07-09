@@ -41,7 +41,7 @@ const SendMessage = ({ scroll }) => {
         <IoSend className=" text-blue-500 text-xl left-[16px] top-[14px] absolute" />
       </button>
       <svg
-        className="wave-2 absolute md:bottom-[53px] bottom-[65px] left-0"
+        className="wave-2 absolute md:bottom-[53px] bottom-[65px] left-0 w-full"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 1440 320"
       >

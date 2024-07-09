@@ -26,7 +26,7 @@ const Chat = () => {
       <div className="fixed top-0 flex justify-between items-center pt-3 px-4 w-full z-10 bg-blue-700 md:w-[600px] md:mx-auto">
         <Navbar />
         <svg
-          className="absolute md:-top-[10px] left-0 wave top-[10px]"
+          className="absolute md:-top-[10px] left-0 wave top-[10px] w-full"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 1440 320"
         >
